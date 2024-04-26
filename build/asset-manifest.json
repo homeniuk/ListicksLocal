@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ListicksLocal/static/css/main.d9183c9b.css",
+    "main.js": "/ListicksLocal/static/js/main.1ec227c0.js",
+    "index.html": "/ListicksLocal/index.html",
+    "main.d9183c9b.css.map": "/ListicksLocal/static/css/main.d9183c9b.css.map",
+    "main.1ec227c0.js.map": "/ListicksLocal/static/js/main.1ec227c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9183c9b.css",
+    "static/js/main.1ec227c0.js"
+  ]
+}
