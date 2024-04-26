@@ -1,2 +1,2 @@
-#Listicks for local - saved in localstorage
-#https://homeniuk.github.io/ListicksLocal/
+Listicks in browser, saved in localstorage
+https://homeniuk.github.io/ListicksLocal/
